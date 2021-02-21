@@ -1042,11 +1042,6 @@
     <Component class="javax.swing.ButtonGroup" name="buttonGroup1">
     </Component>
     <Container class="javax.swing.JDialog" name="f_proforma">
-      <Properties>
-        <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-          <Dimension value="[1000, 1000]"/>
-        </Property>
-      </Properties>
 
       <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
         <Property name="useNullLayout" type="boolean" value="true"/>
